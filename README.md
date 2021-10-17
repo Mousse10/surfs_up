@@ -9,3 +9,5 @@ An investor wants to learn more about the weather before committing to build a S
 Upon further review, we were able to us the following code in order to get the temperature results for both June and December respectively: 
 
 ![](https://github.com/Mousse10/surfs_up/blob/main/Resources/Capture.PNG)
+
+![](https://github.com/Mousse10/surfs_up/blob/main/Resources/Capture2.PNG)
