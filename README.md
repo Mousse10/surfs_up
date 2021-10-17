@@ -10,4 +10,4 @@ Upon further review, we were able to us the following code in order to get the t
 
 ![](https://github.com/Mousse10/surfs_up/blob/main/Resources/Capture.PNG)
 
-![](https://github.com/Mousse10/surfs_up/blob/main/Resources/Capture202.PNG)
+![](https://github.com/Mousse10/surfs_up/blob/main/Resources/Capture 2.PNG)
