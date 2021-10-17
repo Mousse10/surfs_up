@@ -26,7 +26,7 @@ We were able to generated the following statistic tables for June and December r
 
 Following our analysis of the temperatures in June and December, we can confirm that the two seasons have relatively similar temperatures which are favoralble for the potential Surf and Ice Cream Shop investment. This is a good sign but we would need to do an additional analysis on the precipitation during the two seasons to strengthen our previous conclusion. This would be great to further confirm that this would be a good investment and that weather should not be an issue for this buisness. In order to perform this analysis, we would need to run the following queries. 
 
-![](
+![](https://github.com/Mousse10/surfs_up/blob/main/Resources/Capture%205.PNG)
 
-![](
+![](https://github.com/Mousse10/surfs_up/blob/main/Resources/Capture%204.PNG)
 
